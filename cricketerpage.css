@@ -1,0 +1,35 @@
+.row{
+    background-color: #fb4e71;
+    font-family: Roboto;
+    color: #ffffff;
+    width:500px;
+    padding: 20px;
+}
+.img{
+height: 175px;
+padding-left: 30px;
+}
+#row2{
+    background-color: #e6f6ff;
+    color: black;
+    font-family: Roboto;
+}
+#content{
+    background-color: #ffffff;
+    font-family: Roboto;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+h4{
+    font-family: Roboto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.imgs{
+    width: 125px;
+}
+#btn{
+width:125px;
+margin-top: 20px;
+font-size: large;
+}
